@@ -18,6 +18,6 @@ class Vehicle {
     }
 }
 
-// Example usage:
+
 $vehicle = new Vehicle("Toyota", "Camry", 2022);
 $vehicle->displayDetails();
